@@ -3,6 +3,8 @@ To train the object detection for OpenVINO engine, use the [object_detection](mo
 
 To get the prepared dataset in COCO format please follow the guide to download the DARPA Subt dataset in this [repository](https://github.com/ctu-mrs/vision_datasets).
 
+Side note: this version of the training extensions is supposed to work with OpenVino 2021 version. Beware that OpenVino software is not backward compatible (yeah :( ).
+
 
 
 # OpenVINO™ Training Extensions
