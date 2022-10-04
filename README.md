@@ -1,3 +1,10 @@
+# This is a fork of the original OpenVINO training exetensions
+To train the object detection for OpenVINO engine, use the [object_detection](models/object_detection/model_templates/custom-object-detection)  module, with the size of the input which you prefer.
+
+To get the prepared dataset in COCO format please follow the guide to download the DARPA Subt dataset in this [repository](https://github.com/ctu-mrs/vision_datasets).
+
+
+
 # OpenVINO™ Training Extensions
 
 OpenVINO™ Training Extensions provide a convenient environment to train
